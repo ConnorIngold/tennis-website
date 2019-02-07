@@ -1,0 +1,14 @@
+.banner {
+  background: url("https://a.espncdn.com/photo/2018/1207/r474380_1296x729_16-9.jpg") center center no-repeat;
+  /* set the background to an image and center it along the x and y axis */
+  height: -webkit-fill-available;
+  /* the image height is now set fill the full height of the screen */
+  background-size: cover;
+  /* the image width is now set fill the full width of the screen */
+}
+
+
+.navbar-img{
+  width: 75%;
+  height: auto;
+}
